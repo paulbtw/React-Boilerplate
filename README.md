@@ -1,14 +1,14 @@
-# Express boilerplate backend
+# React boilerplate frontend
 
-Client Application: 
+Server Application: 
 
-* [React](https://github.com/paulbtw)
+* [Express](https://github.com/paulbtw/Express-Boilerplate)
 
 ## Features of Client + Server
 
 * Basic React app
 * Node.js with Express
-* PostgreSQL Database with Sequelize
+* PostgreSQL Database with TypeORM
 * Authentication
     * Using JWT and local storage
     * Sign up, Sign in, Sign out, Verify email, 'Delete' account, Reset password
